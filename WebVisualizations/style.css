@@ -1,0 +1,44 @@
+body {
+    background-color:grey
+  }
+  
+.navbar {
+    max-height: 80px;
+    font-size: 20px; 
+}
+
+img{
+  width:100%;
+  height:100%;
+}
+.panel:hover {
+  border-color:#9933ff;
+  border-style: solid;
+  
+}
+
+.box {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 0px 10px 10px;
+    background-color: white;
+}
+
+footer {
+    background-color: RGB(80,46,136);
+    color: white;
+    min-height: 40px;
+    font-family: Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 12px;
+}
+.title {
+    color: black;
+    font-family: Helvetica, sans-serif;
+    padding-top: 10px;
+}
